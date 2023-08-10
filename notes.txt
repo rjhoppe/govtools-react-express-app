@@ -1,1 +1,7 @@
 https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/
+
+CSV Parsing
+https://www.golinuxcloud.com/how-to-parse-csv-data-in-nodejs/
+
+THIS is the good stuff
+https://dev.to/isalevine/parsing-csv-files-in-node-js-with-fs-createreadstream-and-csv-parser-koi
