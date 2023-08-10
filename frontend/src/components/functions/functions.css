@@ -1,0 +1,27 @@
+.application__container {
+	display: flex;
+}
+
+.user__attributes__container {
+	display: flex;
+    justify-content: flex-start;
+    align-items: center;
+	width: 500px;
+	/* margin-left: 100px; */
+}
+
+.functions__container {
+	height: 80vh;
+	width: 1800px;
+}
+	/* background-color: transparent;
+}
+
+.nav__content {
+	background-color: transparent;
+} */
+
+.functions__content h2 {
+	font-size: 24px;
+	margin-top: 25px;
+}
